@@ -1,108 +1,93 @@
-name: John Doe
+name: Derick Carvalho
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: derickcarvalho95@gmail.com
+  github: DerickCarvalho
+  linkedin: Derick Carvalho
+  phone: (84) 9 9107-4280
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Português (Materna)
+  - idiom: Inglês (Intermediário)
+  - idiom: Espanhol (Básico)
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Análise e Desenvolvimento de Sistemas - UnP
+    time: 2022-2024
+    university: Universidade Potiguar
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Informática Subsequente
+    time: 2023-2024
+    university: IFRN
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - PHP
+      - Java
+      - Python
   - category: Frontend
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - HTML5 e CSS3
+      - JavaScript
+  - category: DataBase
     skill:
-      - Docker
-      - Kubernetes 
+      - MySql
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Graduando em Análise e Desenvolvimento de Sistemas na UnP - Universidade Potiguar. Atualmente, 
+  desenvolvo em: HTML5 e CSS3, JavaScript, PHP, Java e MySql. Busco minha primeira vaga de estágio, 
+  aceitando qualquer desafio que vir pela frente.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Suporte técnico em informática
+    time: 2018-2020
+    company: Autônomo
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Atuava realizando reparos e manutenções de hardware e software em Desktops e Laptops, além de 
+      orçamentos para montagens de desktops e consultoria para escolha de equipamentos.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Yumi, Haren's Boot
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Designer Gráfico
+    time: 2020-2022
+    company: Autônomo
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Atuava no desenvolvimento criativo e criação de imagens gráficas, seguindo a ideia do cliente
+      e buscando entregar o melhor resultado possível.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Adobe Photoshop, Paint 3D
 
 publications:
-  - title: Random title of paper. An interesting one.
+  - title: PHP em sistemas para pequenas empresas
     link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+    authors: Derick C.
+    conference: Apresentação de dissertação na UnP, 2022
 
-  - title: Second title of paper. An interesting one too.
+  - title: Estudo do protocolo TCP/IP para infraestrutura de redes
     link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+    authors: Derick C.
+    conference: Apresentação de projeto na UnP, 2022
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title: Zero Games
+    link: https://dksproject.000webhostapp.com/
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Sistema simples, criado utilizando HTML5, CSS3 e JavaScript no Front-end, PHP no Back-end e MySQL no DataBase.
+      A ideia do sistema é servir como um "portifólio" para os entusiastas do video game, os quais através do sistema têm a
+      possibilidade de cadastrar os jogos que já zeraram.
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - time: 2023-Present
+    role: Desenvolvedor Front-end
+    company: Cadenza
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Desenvolvedor Front-end voluntário, ajudando na criação de webpages para um sistema de  delivery local.
